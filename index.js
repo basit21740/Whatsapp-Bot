@@ -20,10 +20,4 @@ client.on('message', message => {
 	console.log(message.body);
 });
 
-client.on('message', message => {
-	if(message.body === '!ping') {
-		message.reply('pong');
-	}
-});
-
 client.initialize();
