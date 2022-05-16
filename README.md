@@ -1,4 +1,5 @@
-# Whatsapp-Bot
+# Whatsapp-Bot 
+It is way too simple :)
 
 # Npm Packages you need to run
 npm init -y <br>
